@@ -1,4 +1,4 @@
-[FP-A Rolling Forecast Scenario Simple Model.xlsx](https://github.com/user-attachments/files/32873449/FP-A.Rolling.Forecast.Scenario.Simple.Model.xlsx)
+
 # FP&A Financial Modeling
 
 Practical FP&A and corporate finance examples demonstrating financial modeling, forecasting, variance analysis, scenario planning, cash flow analysis, and management reporting.
@@ -42,3 +42,7 @@ The model will include:
 Financial models should support decision-making, not simply produce numbers. My approach combines financial analysis, business understanding, structured modeling, and professional judgment.
 
 AI can improve the efficiency of financial analysis and modeling, while assumptions, calculations, outputs, and conclusions still require professional review.
+
+Rolling Forecast & Scenario Analysis
+Illustrative FP&A model demonstrating driver-based forecasting, variance analysis, cash-flow planning, and scenario analysis.  
+📊 [View / Download Excel Model](FP-A_Rolling_Forecast_Scenario_Simple_Model.xlsx)
