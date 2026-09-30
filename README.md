@@ -43,6 +43,3 @@ Financial models should support decision-making, not simply produce numbers. My 
 
 AI can improve the efficiency of financial analysis and modeling, while assumptions, calculations, outputs, and conclusions still require professional review.
 
-Rolling Forecast & Scenario Analysis
-Illustrative FP&A model demonstrating driver-based forecasting, variance analysis, cash-flow planning, and scenario analysis.  
-📊 [View / Download Excel Model](FP-A_Rolling_Forecast_Scenario_Simple_Model.xlsx)
