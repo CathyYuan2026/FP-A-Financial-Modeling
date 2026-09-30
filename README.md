@@ -1,3 +1,4 @@
+[FP-A Rolling Forecast Scenario Simple Model.xlsx](https://github.com/user-attachments/files/32873449/FP-A.Rolling.Forecast.Scenario.Simple.Model.xlsx)
 # FP&A Financial Modeling
 
 Practical FP&A and corporate finance examples demonstrating financial modeling, forecasting, variance analysis, scenario planning, cash flow analysis, and management reporting.
